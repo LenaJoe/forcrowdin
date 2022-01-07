@@ -1,1 +1,4 @@
-# forcrowdin
+---
+server:
+  port: 8081
+  path: /你好111
